@@ -1,0 +1,15 @@
+E:\vs2010\随机抽取软件\随机抽取软件\bin\Debug\随机抽取软件.exe
+E:\vs2010\随机抽取软件\随机抽取软件\bin\Debug\随机抽取软件.pdb
+E:\vs2010\随机抽取软件\随机抽取软件\bin\Debug\随机抽取软件.xml
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.Main.resources
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.Resources.resources
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.vbproj.GenerateResource.Cache
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.exe
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.xml
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.pdb
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.NameList.resources
+E:\vs2010\随机抽取软件\随机抽取软件\bin\Debug\随机抽取软件.exe.manifest
+E:\vs2010\随机抽取软件\随机抽取软件\bin\Debug\随机抽取软件.application
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.TrustInfo.xml
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.exe.manifest
+E:\vs2010\随机抽取软件\随机抽取软件\obj\x86\Debug\随机抽取软件.application
